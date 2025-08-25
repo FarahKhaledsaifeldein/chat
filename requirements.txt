@@ -1,0 +1,11 @@
+Django
+djangorestframework
+pandas
+gspread
+google-auth
+openai
+python-dotenv
+channels
+psycopg2-binary
+django-bootstrap5
+channels-redis

@@ -1,0 +1,14 @@
+*{box-sizing:border-box} body{font-family:system-ui,Arial;margin:0;background:#0b1220;color:#e6e6e6}
+.container{max-width:780px;margin:auto;padding:16px}
+.card{background:#121a2a;border-radius:16px;padding:12px;margin-bottom:10px}
+label{display:block;font-size:14px;margin:6px 0 4px;opacity:.9}
+input{width:100%;padding:10px;border-radius:12px;border:1px solid #2a3550;background:#0f1626;color:#e6e6e6}
+#chat{background:#0f1626;border-radius:16px;min-height:40vh;padding:12px;overflow:auto;margin:12px 0}
+.msg{padding:10px 12px;border-radius:12px;margin:8px 0;max-width:85%}
+.user{background:#2a3550;margin-left:auto}
+.bot{background:#18233a}
+.inputRow{display:flex;gap:8px}
+.inputRow input{flex:1}
+button{background:#3a6cf4;color:white;border:none;border-radius:12px;padding:10px 16px}
+button:hover{opacity:.9;cursor:pointer}
+a{color:#a8c1ff}
